@@ -1,7 +1,7 @@
 # Vow Vendor - Wedding Vendor App
 'Vow Vendor', a Wedding Vendor App designed to streamline the wedding planning process. Vow Vendor aims to alleviate the challenges faced by couples in finding and selecting suitable wedding vendors.
 
-## Useful links
+## Useful Links
 
 2-min Pitch Deck: https://www.loom.com/share/b4a8916930b44806ac6de289f3fd1734
 
