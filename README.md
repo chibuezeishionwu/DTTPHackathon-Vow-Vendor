@@ -3,11 +3,13 @@
 
 ## Useful Links
 
-Pitch Deck: https://www.loom.com/share/0dd42c5d18604e7fa7be52c6c13baf5e
+2-min Pitch Deck: https://www.loom.com/share/b4a8916930b44806ac6de289f3fd1734
 
 Project Report Doc: https://docs.google.com/document/d/1hbxhs1UK9HqyXZrRupjQYm7A4bn6-lYcWQ0V-G6B62k/edit
 
-Figma Prototype: https://apply.africahacks.com/team/65d9e59d470d9700626e9c98/undefined
+Github Repository: https://github.com/chibuezeishionwu/DTTPHackathon-Vow-Vendor
+
+Figma Prototype: https://www.figma.com/proto/fjeLNDBIwaRfNIs25NG0Vp/Hackathon---Team-18?type=design&node-id=217-4009&t=zMXeY0mBnbFcVb2h-1&scaling=scale-down&page-id=17%3A517&starting-point-node-id=217%3A4009&mode=design
 
 
 ## Problem
