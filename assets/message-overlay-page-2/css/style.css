@@ -1,0 +1,73 @@
+.message-overlay {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.message-overlay .div {
+    background-color: #ffffff;
+    height: 777px;
+    position: relative;
+    width: 430px;
+}
+
+.message-overlay .group {
+    height: 26px;
+    left: 130px;
+    position: absolute;
+    top: 744px;
+    width: 122px;
+}
+
+.message-overlay .text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.41px;
+    line-height: 25.5px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+}
+
+.message-overlay .overlap-group {
+    height: 421px;
+    left: 15px;
+    position: absolute;
+    top: 58px;
+    width: 400px;
+}
+
+.message-overlay .rectangle {
+    height: 376px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 400px;
+}
+
+.message-overlay .message-sent-you {
+    color: #000000;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 31px;
+    letter-spacing: -0.41px;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 361px;
+}
+
+.message-overlay .close {
+    height: 30px;
+    left: 385px;
+    position: absolute;
+    top: 17px;
+    width: 30px;
+}

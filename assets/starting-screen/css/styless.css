@@ -1,0 +1,45 @@
+.starting-screen {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+   }
+   .starting-screen .div {
+    background: linear-gradient (180deg, rgb(187.56, 76.59, 219.98) 0%, rgb(50.37, 17.41, 60) 1);
+    background-color: rgba(255, 255, 255, 1);
+    height: 933px;
+    position: relative;
+    width: 429px;
+   }
+   .starting-screen .group {
+    height: 54px;
+    left: 122px;
+    position: absolute;
+    top: 719px;
+    width: 198px;
+   }
+   .starting-screen .modern-monogram {
+    height: 500px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 144px;
+    width: 429px;
+   }
+   .starting-screen .component-1 {
+    background-color: #bc4ddc !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+   }
+   .starting-screen .component-instance {
+    color: #020202 !important;
+   }
+   .starting-screen .img {
+    height: 54px;
+    left: 133px;
+    position: absolute;
+    top: 644px;
+    width: 177px;
+   }
