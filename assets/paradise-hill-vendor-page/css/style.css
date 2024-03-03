@@ -1,0 +1,443 @@
+.vendor-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.vendor-page .div-2 {
+    background-color: #ffffff;
+    height: 1294px;
+    position: relative;
+    width: 430px;
+}
+
+.vendor-page .overlap {
+    background-image: url(./image-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 329px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 430px;
+}
+
+.vendor-page .arrow-back-ios-new {
+    height: 24px;
+    left: 19px;
+    position: absolute;
+    top: 48px;
+    width: 24px;
+}
+
+.vendor-page .overlap-wrapper {
+    height: 880px;
+    left: 20px;
+    position: absolute;
+    top: 339px;
+    width: 389px;
+}
+
+.vendor-page .overlap-2 {
+    height: 880px;
+    position: relative;
+    width: 407px;
+}
+
+.vendor-page .group-2 {
+    height: 880px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 407px;
+}
+
+.vendor-page .overlap-3 {
+    height: 103px;
+    left: 0;
+    position: absolute;
+    top: 21px;
+    width: 252px;
+}
+
+.vendor-page .text-wrapper-5 {
+    color: #882fa2;
+    font-family: "Yeseva One-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 41px;
+    left: 0;
+    letter-spacing: 0.41px;
+    line-height: 41px;
+    position: absolute;
+    top: 0;
+    width: 203px;
+}
+
+.vendor-page .text-wrapper-6 {
+    color: #4f4f4f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.8px;
+    line-height: 43.1px;
+    position: absolute;
+    top: 35px;
+    width: 131px;
+}
+
+.vendor-page .group-3 {
+    height: 20px;
+    left: 0;
+    position: absolute;
+    top: 83px;
+    width: 252px;
+}
+
+.vendor-page .overlap-group-wrapper {
+    height: 20px;
+}
+
+.vendor-page .overlap-4 {
+    height: 20px;
+    position: relative;
+    width: 256px;
+}
+
+.vendor-page .group-4 {
+    height: 20px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 256px;
+}
+
+.vendor-page .group-5 {
+    height: 20px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 79px;
+}
+
+.vendor-page .overlap-group-2 {
+    height: 16px;
+    left: 96px;
+    position: absolute;
+    top: 2px;
+    width: 156px;
+}
+
+.vendor-page .text-wrapper-7 {
+    color: #000000;
+    font-family: "Rubik-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 79px;
+}
+
+.vendor-page .text-wrapper-8 {
+    color: #000000;
+    font-family: "Rubik-Light", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    left: 74px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 0;
+    white-space: nowrap;
+    width: 82px;
+}
+
+.vendor-page .ellipse {
+    background-color: #210b04;
+    border-radius: 2.5px;
+    height: 5px;
+    left: 153px;
+    position: absolute;
+    top: 10px;
+    width: 5px;
+}
+
+.vendor-page .title {
+    color: #1d1c1f;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 22px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: -0.41px;
+    line-height: 22px;
+    position: absolute;
+    top: 153px;
+    white-space: nowrap;
+    width: 70px;
+}
+
+.vendor-page .overlap-5 {
+    height: 691px;
+    left: 0;
+    position: absolute;
+    top: 189px;
+    width: 389px;
+}
+
+.vendor-page .text {
+    color: #5b5b5b;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.41px;
+    line-height: 25.5px;
+    position: absolute;
+    top: 0;
+    width: 389px;
+}
+
+.vendor-page .text-wrapper-9 {
+    color: #000000;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 22px;
+    font-weight: 600;
+    left: 3px;
+    letter-spacing: -0.41px;
+    line-height: 33px;
+    position: absolute;
+    top: 268px;
+    white-space: nowrap;
+}
+
+.vendor-page .element-guests {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: -0.41px;
+    line-height: 30px;
+    position: absolute;
+    top: 313px;
+    white-space: nowrap;
+}
+
+.vendor-page .element-guests-2 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: -0.41px;
+    line-height: 30px;
+    position: absolute;
+    top: 355px;
+    white-space: nowrap;
+}
+
+.vendor-page .element-guests-3 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: -0.41px;
+    line-height: 30px;
+    position: absolute;
+    top: 402px;
+    white-space: nowrap;
+}
+
+.vendor-page .line {
+    height: 1px;
+    left: 7px;
+    object-fit: cover;
+    position: absolute;
+    top: 255px;
+    width: 373px;
+}
+
+.vendor-page .input-label-instance {
+    left: 149px !important;
+    position: absolute !important;
+    top: 218px !important;
+}
+
+.vendor-page .input-label-2 {
+    color: #000000 !important;
+    font-family: "Inter-Regular", Helvetica !important;
+    font-size: 16px !important;
+    font-style: unset !important;
+    font-weight: 400 !important;
+    letter-spacing: 0 !important;
+    line-height: 22.4px !important;
+}
+
+.vendor-page .text-wrapper-10 {
+    color: #000000;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 3px;
+    letter-spacing: -0.41px;
+    line-height: 36px;
+    position: absolute;
+    top: 448px;
+    white-space: nowrap;
+}
+
+.vendor-page .line-2 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 496px;
+    width: 380px;
+}
+
+.vendor-page .div-wrapper {
+    height: 49px;
+    left: 87px;
+    position: absolute;
+    top: 543px;
+    width: 228px;
+}
+
+.vendor-page .overlap-6 {
+    background-color: #882fa2;
+    border-radius: 10px;
+    height: 49px;
+    position: relative;
+    width: 226px;
+}
+
+.vendor-page .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Rubik-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 40px;
+    letter-spacing: -0.41px;
+    line-height: 30px;
+    position: absolute;
+    top: 7px;
+    white-space: nowrap;
+}
+
+.vendor-page .group-6 {
+    height: 26px;
+    left: 330px;
+    position: absolute;
+    top: 0;
+    width: 59px;
+}
+
+.vendor-page .favorite-2 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 24px;
+}
+
+.vendor-page .ios-share {
+    height: 24px;
+    left: 35px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+}
+
+.vendor-page .expand-more {
+    height: 30px;
+    left: 350px;
+    position: absolute;
+    top: 640px;
+    width: 30px;
+}
+
+.vendor-page .frame {
+    height: 117px;
+    left: 0;
+    position: fixed;
+    top: 1177px;
+    width: 430px;
+}
+
+.vendor-page .overlap-7 {
+    height: 117px;
+    position: relative;
+}
+
+.vendor-page .group-45 {
+    height: 117px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.vendor-page .group-instance {
+    background-color: #ffffff !important;
+}
+
+.vendor-page .group-45-instance {
+    color: #451952 !important;
+}
+
+.vendor-page .group-7 {
+    height: 25px !important;
+    left: 9px !important;
+    top: 2px !important;
+    width: 25px !important;
+}
+
+.vendor-page .group-8 {
+    background-color: #210b04 !important;
+}
+
+.vendor-page .line-3 {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 430px;
+}
+
+.vendor-page .iphone-status-bar-instance {
+    height: 48px !important;
+    left: 0 !important;
+    position: fixed !important;
+    top: 0 !important;
+    width: 430px !important;
+}
+
+.vendor-page .iphone-status-bar-2 {
+    left: 354px !important;
+}
+
+.vendor-page .iphone-status-bar-3 {
+    height: 12px !important;
+    left: 377px !important;
+    position: absolute !important;
+    top: 17px !important;
+    width: 27px !important;
+}
+
+.vendor-page .iphone-status-bar-4 {
+    left: 330px !important;
+}
+
+.vendor-page .iphone-status-bar-5 {
+    color: #210b04 !important;
+    font-family: "Roboto-SemiBold", Helvetica !important;
+    font-weight: 600 !important;
+}
