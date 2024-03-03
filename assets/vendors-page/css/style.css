@@ -1,0 +1,803 @@
+.list-of-vendors {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.list-of-vendors .div-2 {
+    background-color: #ffffff;
+    height: 1705px;
+    overflow-x: hidden;
+    position: relative;
+    width: 430px;
+}
+
+.list-of-vendors .text-wrapper-5 {
+    color: #882fa2;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 20px;
+    letter-spacing: -0.24px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 241px;
+    white-space: nowrap;
+    width: 281px;
+}
+
+.list-of-vendors .text-wrapper-6 {
+    color: #882fa2;
+    font-family: "Yeseva One-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 141px;
+    letter-spacing: -0.24px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 70px;
+    width: 133px;
+}
+
+.list-of-vendors .div-wrapper {
+    height: 307px;
+    left: 27px;
+    overflow: hidden;
+    overflow-x: scroll;
+    position: absolute;
+    top: 297px;
+    width: 401px;
+}
+
+.list-of-vendors .frame-wrapper {
+    height: 307px;
+    width: 1232px;
+}
+
+.list-of-vendors .frame-2 {
+    height: 307px;
+    position: relative;
+}
+
+.list-of-vendors .group-3 {
+    height: 307px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 292px;
+}
+
+.list-of-vendors .overlap-group-3 {
+    background-image: url(./unsplash-qlkan7eqay8.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 307px;
+    position: relative;
+    width: 290px;
+}
+
+.list-of-vendors .text-wrapper-7 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 253px;
+    width: 96px;
+}
+
+.list-of-vendors .overlap-wrapper {
+    height: 305px;
+    left: 316px;
+    position: absolute;
+    top: 2px;
+    width: 292px;
+}
+
+.list-of-vendors .overlap {
+    background-image: url(./rectangle-85.svg);
+    background-size: 100% 100%;
+    height: 305px;
+    position: relative;
+    width: 290px;
+}
+
+.list-of-vendors .text-wrapper-8 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 251px;
+    width: 92px;
+}
+
+.list-of-vendors .group-4 {
+    height: 305px;
+    left: 629px;
+    position: absolute;
+    top: 2px;
+    width: 292px;
+}
+
+.list-of-vendors .overlap-2 {
+    background-image: url(./rectangle-86.svg);
+    background-size: 100% 100%;
+    height: 305px;
+    position: relative;
+    width: 290px;
+}
+
+.list-of-vendors .text-wrapper-9 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 86px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 251px;
+    width: 115px;
+}
+
+.list-of-vendors .group-5 {
+    height: 305px;
+    left: 942px;
+    position: absolute;
+    top: 2px;
+    width: 292px;
+}
+
+.list-of-vendors .overlap-3 {
+    background-image: url(./rectangle-87.svg);
+    background-size: 100% 100%;
+    height: 305px;
+    position: relative;
+    width: 290px;
+}
+
+.list-of-vendors .text-wrapper-10 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 251px;
+    width: 91px;
+}
+
+.list-of-vendors .arrow-back-ios-new {
+    height: 24px;
+    left: 7px;
+    position: absolute;
+    top: 72px;
+    width: 24px;
+}
+
+.list-of-vendors .group-6 {
+    height: 53px;
+    left: 20px;
+    position: absolute;
+    top: 131px;
+    width: 396px;
+}
+
+.list-of-vendors .overlap-4 {
+    height: 53px;
+    position: relative;
+}
+
+.list-of-vendors .group-7 {
+    box-shadow: -2px 2px 8px #00000040;
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 396px;
+}
+
+.list-of-vendors .search-2 {
+    height: 24px;
+    left: 19px;
+    position: absolute;
+    top: 14px;
+    width: 24px;
+}
+
+.list-of-vendors .group-8 {
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 396px;
+}
+
+.list-of-vendors .overlap-group-4 {
+    border-radius: 15px;
+    height: 53px;
+    position: relative;
+}
+
+.list-of-vendors .instant-mix {
+    height: 24px;
+    left: 350px;
+    position: absolute;
+    top: 11px;
+    width: 24px;
+}
+
+.list-of-vendors .search-wrapper {
+    background-color: #ffffff;
+    border-radius: 15px;
+    height: 53px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 396px;
+}
+
+.list-of-vendors .instant-mix-2 {
+    height: 24px;
+    left: 353px;
+    position: absolute;
+    top: 14px;
+    width: 24px;
+}
+
+.list-of-vendors .group-9 {
+    height: 896px;
+    left: 21px;
+    position: absolute;
+    top: 661px;
+    width: 387px;
+}
+
+.list-of-vendors .overlap-5 {
+    height: 896px;
+    position: relative;
+    width: 381px;
+}
+
+.list-of-vendors .group-10 {
+    height: 896px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 381px;
+}
+
+.list-of-vendors .overlap-group-5 {
+    height: 896px;
+    position: relative;
+    width: 399px;
+}
+
+.list-of-vendors .group-11 {
+    height: 896px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 399px;
+}
+
+.list-of-vendors .text-wrapper-11 {
+    color: #882fa2;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 309px;
+    width: 156px;
+}
+
+.list-of-vendors .group-12 {
+    height: 45px;
+    left: 6px;
+    position: absolute;
+    top: 229px;
+    width: 102px;
+}
+
+.list-of-vendors .text-wrapper-12 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 98px;
+}
+
+.list-of-vendors .text-wrapper-13 {
+    color: #4f4f4f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    width: 82px;
+}
+
+.list-of-vendors .group-13 {
+    height: 46px;
+    left: 205px;
+    position: absolute;
+    top: 229px;
+    width: 86px;
+}
+
+.list-of-vendors .text-wrapper-14 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 80px;
+}
+
+.list-of-vendors .group-14 {
+    height: 45px;
+    left: 3px;
+    position: absolute;
+    top: 539px;
+    width: 112px;
+}
+
+.list-of-vendors .peace-love {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 108px;
+}
+
+.list-of-vendors .group-15 {
+    height: 45px;
+    left: 198px;
+    position: absolute;
+    top: 539px;
+    width: 118px;
+}
+
+.list-of-vendors .text-wrapper-15 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 114px;
+}
+
+.list-of-vendors .text-wrapper-16 {
+    color: #4f4f4f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    width: 82px;
+}
+
+.list-of-vendors .text-wrapper-17 {
+    color: #882fa2;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 146px;
+}
+
+.list-of-vendors .text-wrapper-18 {
+    color: #882fa2;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 619px;
+    width: 149px;
+}
+
+.list-of-vendors .group-16 {
+    height: 45px;
+    left: 196px;
+    position: absolute;
+    top: 851px;
+    width: 124px;
+}
+
+.list-of-vendors .text-wrapper-19 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 120px;
+}
+
+.list-of-vendors .text-wrapper-20 {
+    color: #4f4f4f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    width: 82px;
+}
+
+.list-of-vendors .unsplash {
+    height: 179px;
+    left: 198px;
+    object-fit: cover;
+    position: absolute;
+    top: 42px;
+    width: 178px;
+}
+
+.list-of-vendors .unsplash-tatrehl {
+    height: 179px;
+    left: 3px;
+    object-fit: cover;
+    position: absolute;
+    top: 352px;
+    width: 178px;
+}
+
+.list-of-vendors .unsplash-ecgzwpovya {
+    height: 179px;
+    left: 2px;
+    object-fit: cover;
+    position: absolute;
+    top: 664px;
+    width: 178px;
+}
+
+.list-of-vendors .image {
+    height: 181px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 40px;
+    width: 180px;
+}
+
+.list-of-vendors .unsplash-fjk {
+    height: 179px;
+    left: 196px;
+    object-fit: cover;
+    position: absolute;
+    top: 664px;
+    width: 179px;
+}
+
+.list-of-vendors .group-17 {
+    height: 45px;
+    left: 2px;
+    position: absolute;
+    top: 851px;
+    width: 100px;
+}
+
+.list-of-vendors .text-wrapper-21 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 96px;
+}
+
+.list-of-vendors .text-wrapper-22 {
+    color: #4f4f4f;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    width: 82px;
+}
+
+.list-of-vendors .text-wrapper-23 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 123px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 229px;
+}
+
+.list-of-vendors .ellipse {
+    background-color: #882fa2;
+    border-radius: 2px;
+    height: 4px;
+    left: 113px;
+    position: absolute;
+    top: 239px;
+    width: 4px;
+}
+
+.list-of-vendors .text-wrapper-24 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 306px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 229px;
+}
+
+.list-of-vendors .ellipse-2 {
+    background-color: #882fa2;
+    border-radius: 2px;
+    height: 4px;
+    left: 296px;
+    position: absolute;
+    top: 239px;
+    width: 4px;
+}
+
+.list-of-vendors .text-wrapper-25 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 539px;
+}
+
+.list-of-vendors .ellipse-3 {
+    background-color: #882fa2;
+    border-radius: 2px;
+    height: 4px;
+    left: 119px;
+    position: absolute;
+    top: 549px;
+    width: 4px;
+}
+
+.list-of-vendors .text-wrapper-26 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 328px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 539px;
+}
+
+.list-of-vendors .ellipse-4 {
+    background-color: #882fa2;
+    border-radius: 2px;
+    height: 4px;
+    left: 318px;
+    position: absolute;
+    top: 549px;
+    width: 4px;
+}
+
+.list-of-vendors .text-wrapper-27 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 330px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 851px;
+}
+
+.list-of-vendors .ellipse-5 {
+    background-color: #882fa2;
+    border-radius: 2px;
+    height: 4px;
+    left: 320px;
+    position: absolute;
+    top: 861px;
+    width: 4px;
+}
+
+.list-of-vendors .text-wrapper-28 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 113px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 851px;
+}
+
+.list-of-vendors .ellipse-6 {
+    background-color: #882fa2;
+    border-radius: 2px;
+    height: 4px;
+    left: 103px;
+    position: absolute;
+    top: 861px;
+    width: 4px;
+}
+
+.list-of-vendors .unsplash-kmddxa {
+    height: 179px;
+    left: 198px;
+    object-fit: cover;
+    position: absolute;
+    top: 352px;
+    width: 179px;
+}
+
+.list-of-vendors .text-wrapper-29 {
+    color: #000000;
+    font-family: "Rubik-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 296px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 2px;
+    white-space: nowrap;
+}
+
+.list-of-vendors .text-wrapper-30 {
+    color: #000000;
+    font-family: "Rubik-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 296px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 308px;
+    white-space: nowrap;
+}
+
+.list-of-vendors .text-wrapper-31 {
+    color: #000000;
+    font-family: "Rubik-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 296px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 618px;
+    white-space: nowrap;
+}
+
+.list-of-vendors .frame-88 {
+    left: -2px !important;
+    position: fixed !important;
+    top: 1588px !important;
+}
+
+.list-of-vendors .iphone-status-bar-instance {
+    height: 48px !important;
+    left: 0 !important;
+    position: fixed !important;
+    top: 0 !important;
+    width: 430px !important;
+}
+
+.list-of-vendors .iphone-status-bar-2 {
+    left: 354px !important;
+}
+
+.list-of-vendors .iphone-status-bar-3 {
+    height: 12px !important;
+    left: 377px !important;
+    position: absolute !important;
+    top: 17px !important;
+    width: 27px !important;
+}
+
+.list-of-vendors .iphone-status-bar-4 {
+    left: 330px !important;
+}
+
+.list-of-vendors .iphone-status-bar-5 {
+    color: #210b04 !important;
+    font-family: "Roboto-SemiBold", Helvetica !important;
+    font-weight: 600 !important;
+}

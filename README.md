@@ -41,6 +41,20 @@ It exists to alleviate the stress and frustration couples experience during wedd
   <img alt="User Persona" src="https://github.com/chibuezeishionwu/DTTPHackathon-Vow-Vendor/assets/129888396/84ec5691-711e-471a-ad35-afa6aeaabe17" width="100%" height="100%">
 </p>
 
+## Code
+
+The react (.jsx) and CSS codes for the application are hosted in this repository. They can be found in the assets directory.
+
+## Technologies Used
+
+* Figma
+* Canva
+* Jira
+* VS Code
+* Loom
+* Mac OS Terminal
+* Qualtrics
+* Miro
 
 
 

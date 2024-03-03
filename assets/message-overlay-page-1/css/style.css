@@ -1,0 +1,168 @@
+.message-overlay {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.message-overlay .div {
+    background-color: #ffffff;
+    height: 777px;
+    position: relative;
+    width: 430px;
+}
+
+.message-overlay .group {
+    height: 26px;
+    left: 130px;
+    position: absolute;
+    top: 744px;
+    width: 122px;
+}
+
+.message-overlay .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.41px;
+    line-height: 25.5px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+}
+
+.message-overlay .input-label-2 {
+    height: 86px;
+    left: 29px;
+    position: absolute;
+    top: 58px;
+    width: 355px;
+}
+
+.message-overlay .form {
+    border: 1px solid;
+    border-color: var(--color-grey-4);
+    border-radius: 4px;
+    height: 55px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 31px;
+    width: 355px;
+}
+
+.message-overlay .placeholder-instance {
+    left: 24px !important;
+    top: 16px !important;
+    width: 276px !important;
+}
+
+.message-overlay .design-component-instance-node {
+    width: 276px !important;
+}
+
+.message-overlay .input-label-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.message-overlay .input-label-3 {
+    height: 86px;
+    left: 29px;
+    position: absolute;
+    top: 176px;
+    width: 355px;
+}
+
+.message-overlay .input-label-4 {
+    height: 86px;
+    left: 29px;
+    position: absolute;
+    top: 294px;
+    width: 353px;
+}
+
+.message-overlay .placeholder-wrapper {
+    border: 1px solid;
+    border-color: var(--color-grey-4);
+    border-radius: 4px;
+    height: 55px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 31px;
+    width: 353px;
+}
+
+.message-overlay .input-label-wrapper {
+    height: 23px;
+    left: 31px;
+    position: absolute;
+    top: 412px;
+    width: 85px;
+}
+
+.message-overlay .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 49px;
+    left: 102px;
+    position: absolute;
+    top: 695px;
+    width: 226px;
+}
+
+.message-overlay .overlap-group {
+    background-color: #882fa2;
+    border-radius: 10px;
+    height: 49px;
+    position: relative;
+}
+
+.message-overlay .contact-vendor {
+    color: #ffffff;
+    font-family: "Rubik-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 35px;
+    letter-spacing: -0.41px;
+    line-height: 30px;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+}
+
+.message-overlay .close {
+    height: 30px;
+    left: 384px;
+    position: absolute;
+    top: 22px;
+    width: 30px;
+}
+
+.message-overlay .overlap {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #bdbdbd;
+    height: 220px;
+    left: 31px;
+    position: absolute;
+    top: 441px;
+    width: 353px;
+}
+
+.message-overlay .p {
+    color: #000000;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    width: 314px;
+}
